@@ -21,10 +21,10 @@
     "node": "~8.1.2"
   },
   "dependencies": {
-    "underscore": "~1.5.1",
-    "express": "~2.5.9",
+    "underscore": "~1.8.3",
+    "express": "~4.16.2",
     "mustache": "~2.2.1",
-    "socket.io": "~0.9.13"
+    "socket.io": "~2.0.4"
   },
   "licenses": [
     {
